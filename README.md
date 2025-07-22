@@ -240,7 +240,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📞 Support
 
 Untuk bantuan dan dukungan:
-- Email: support@example.com
+- Email: lubis163774@gmail.com
 - Documentation: [Link ke dokumentasi]
 - Issues: [GitHub Issues]
 
